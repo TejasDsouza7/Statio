@@ -18,7 +18,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/TejasDsouza7/Statio.git
+git clone https://github.com/Tejasdsouza/Statio.git
 cd Statio
 ```
 ### 2. Install dependencies
